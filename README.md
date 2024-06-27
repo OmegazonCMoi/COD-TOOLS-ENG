@@ -15,7 +15,7 @@
   </a>
 </p>
 
-<p align="center">Welcome to the COD Players GitHub, your ultimate destination for a wide range of files and resources related to the Call of Duty universe. Explore our comprehensive collection of files, including mods, scripts, tools, and more, carefully selected to enhance your gaming experience.</p>
+<p align="center">Welcome to the Hack on COD GitHub, your ultimate destination for a wide range of files and resources related to the Call of Duty universe. Explore our comprehensive collection of files, including mods, scripts, tools, and more, carefully selected to enhance your gaming experience.</p>
 
 ## File Legend
 - 🟢 : All good!
@@ -140,7 +140,7 @@ Update your graphics drivers <br>
 Disable any VPN <br>
 Ask on the server!
 
-Thank you for visiting the COD Players GitHub. We hope you found everything you were looking for. For any other questions, feel free to contact us.
+Thank you for visiting the Hack on COD GitHub. We hope you found everything you were looking for. For any other questions, feel free to contact us.
 
 ---
 
