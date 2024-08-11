@@ -70,6 +70,20 @@
 - 🌀 **Encore V8 Zombies**: [Click here](https://www.mediafire.com/file/z2l7dtufsyg2ejv/EncoreV8+Zombies.rar/file) 🟢
 - 🔥 **RDD**: [Click here](https://github.com/roachnacs/redemption-bo1-gsc) 🟢
 
+### **Call of Duty Black Ops Cold War**
+
+#### --GSC Menus--
+- 🔓 **Atian** : [Clique ici](https://www.mediafire.com/file/ogib0fdcp1szynb/BlackOpsColdWar_atianmenu_pc.gscc/file) 🟢
+
+### **Call of Duty Infinite Warfare**
+
+#### --DLL Menus--
+- 🌪️ **IW7 Public** : [Clique ici](https://mega.nz/file/oClHiKJB#5r7hCRlIglqqypikBHEq1cJ6YuEa3nGGjkRy_jYmu_o) 🟢
+
+#### --CT Menus--
+- 🔥 **Complete Table** : [Clique ici](https://www.mediafire.com/file/jae20rbqi0hh880/CodIW_hack.CT/file) 🟢
+
+
 ## 🚀 **Call of Duty Downloads** 🚀
 
 **Call of Duty Advanced Warfare**: [Click here](https://mega.nz/file/0blT0ZQa#WUK0nwuWF5_tnt9NxjIFfesmDwkv2Gg_K-Qs_kXhmfU) 🟢
