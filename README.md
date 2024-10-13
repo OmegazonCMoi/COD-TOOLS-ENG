@@ -42,7 +42,7 @@
 - 💪 **Godness**: [Click here](https://pastebin.com/iUVPmvRx) 🟢
 - 🔥 **MXT**: [Click here](https://www.mediafire.com/file/zq2w719xpfjpk05/MXT+1.1.2.zip/file) 🟢
 - 👻 **Phantom**: [Click here](https://mega.nz/file/tWVkhRia#JehoVcYGJkFXhKOSiu0pSQTLBUaB3wIHuWPIwbzhP7I) 🟢
-- 🎯 **Scropts**: [Click here](https://mega.nz/file/4bEVEJSb#h_a_u3OrV3IDmYaZc64KHNL7gFrmHZ-A0C8N035qwos) 🟢
+- 🎯 **Scropts**: [Click here](https://mega.nz/file/5D9gnSSK#5cbsMxWqhMstml-Sw6FuJJyQuRLReKL94MbOINWS5HQ) 🟢
 
 #### --GSC Menus--
 - 🎯 **Brad's Trickshotting**: [Click here](https://steamcommunity.com/sharedfiles/filedetails/?id=2079910029&searchtext=Mod+Menu) 🟢
